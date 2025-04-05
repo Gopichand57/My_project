@@ -1,4 +1,4 @@
 # My_project
 This is my first DevOps project
 <br>
-it's a learning project
+It's a learning project file is in VS code
